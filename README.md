@@ -1,4 +1,10 @@
-### Hi there 👋
+학력
+ - 경성대학교 전자공학과 졸업 (2023.02)
+자격증
+ - 정보처리기사 (2022.11)
+ - sql 개발자 (2022.12)
+ - 컴퓨터활용능력1급 (2019.10)
+ - 워드프로세서 (2019.11)
 
 <!--
 **JinkyuJeong/JinkyuJeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
