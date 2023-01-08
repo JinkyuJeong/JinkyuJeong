@@ -9,7 +9,7 @@
  <li>컴퓨터활용능력1급 (2019.10)</li>
  <li>워드프로세서 (2019.11)</li>
 </ul>
-<h3>My Stack</h3>
+<h3>👨‍💻 My Stack</h3>
 <p>
 <img 
   width=20
@@ -44,7 +44,7 @@
 <img 
   width=23
   height=30
-  alt="css"
+  alt="git"
   src="https://mblogthumb-phinf.pstatic.net/MjAxNzExMTlfMjk0/MDAxNTExMDU3NjkwMjE2.XsY608T8KoT6x-d0L_BTjMQwxWK7OrWhsumSPzlS1_4g.fBQWHlveT_V8W6gg3T2YE7UvU4AGdd8VqfzpJnA4n9Yg.JPEG.method256/Beginners_guide_setting_up-git.jpg?type=w800"
 />
 
